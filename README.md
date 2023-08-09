@@ -18,5 +18,6 @@ Dataset:
 
 In this project, we present our research on classifying 3D CAD models using a voxel grid neural network approach, evaluated on the widely-used Princeton ModelNet10 dataset.
 
-Run
+Run:
+
 Just run main.py file to test and see the results.
